@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JPTV20_Valgusfoor_Vassiljev</string>
+    <string name="action_settings">Settings</string>
+    <string name="red">RED</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+</resources>
